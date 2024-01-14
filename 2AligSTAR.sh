@@ -25,4 +25,4 @@ do
 	duration=$SECONDS
 	echo "$(($duration/60)) minutos y $((duration % 60)) segundos"
 
-	done
+done
